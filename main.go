@@ -2,7 +2,7 @@ package main
 
 import(
 	"github.com/conformal/gotk3/gtk"
-	"tasks/ui"
+	"github.com/juanfgs/tasks/ui"
  )
  
  func main(){
